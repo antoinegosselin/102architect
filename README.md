@@ -10,7 +10,11 @@ transformations. To make it nice and clean, you chose to use homogeneous coordin
 O being the origin of both axis, here are the transformations to be implemented:
 
 •Translation,
+
 •Scaling,
+
 •Rotation centered at O,
+
 •Reflection over any axis that passes through O,
+
 •Any combination of the previous transformations.
